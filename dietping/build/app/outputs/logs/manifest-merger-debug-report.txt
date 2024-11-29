@@ -23,6 +23,7 @@ INJECTED from D:\AndroidStudioProjects\tmp\dietManagement\dietping\android\app\s
 INJECTED from D:\AndroidStudioProjects\tmp\dietManagement\dietping\android\app\src\main\AndroidManifest.xml:1:1-51:12
 INJECTED from D:\AndroidStudioProjects\tmp\dietManagement\dietping\android\app\src\main\AndroidManifest.xml:1:1-51:12
 MERGED from D:\AndroidStudioProjects\tmp\dietManagement\dietping\android\app\src\main\AndroidManifest.xml:1:1-51:12
+MERGED from [:shared_preferences_android] D:\AndroidStudioProjects\tmp\dietManagement\dietping\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:image_picker_android] D:\AndroidStudioProjects\tmp\dietManagement\dietping\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-36:12
 MERGED from [:flutter_plugin_android_lifecycle] D:\AndroidStudioProjects\tmp\dietManagement\dietping\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:fluttertoast] D:\AndroidStudioProjects\tmp\dietManagement\dietping\build\fluttertoast\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
@@ -71,6 +72,8 @@ uses-sdk
 INJECTED from D:\AndroidStudioProjects\tmp\dietManagement\dietping\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\AndroidStudioProjects\tmp\dietManagement\dietping\android\app\src\main\AndroidManifest.xml
 INJECTED from D:\AndroidStudioProjects\tmp\dietManagement\dietping\android\app\src\main\AndroidManifest.xml
+MERGED from [:shared_preferences_android] D:\AndroidStudioProjects\tmp\dietManagement\dietping\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] D:\AndroidStudioProjects\tmp\dietManagement\dietping\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:image_picker_android] D:\AndroidStudioProjects\tmp\dietManagement\dietping\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-8:41
 MERGED from [:image_picker_android] D:\AndroidStudioProjects\tmp\dietManagement\dietping\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-8:41
 MERGED from [:flutter_plugin_android_lifecycle] D:\AndroidStudioProjects\tmp\dietManagement\dietping\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
